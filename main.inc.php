@@ -23,7 +23,7 @@
 
 /*
 Plugin Name: Bootstrap Default Language Switch
-Version: 2.7.2
+Version: 2.7.2.1
 Description: Switch to another language from flags on your gallery home page.
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=797
 Author: Phil Bayfield (philb)
